@@ -42,3 +42,6 @@ Transactional data from a UK-based online retail store containing customer purch
 
 Educational and research purposes in **Data Mining**.
 
+
+<img width="655" height="615" alt="image" src="https://github.com/user-attachments/assets/45ce4e9d-57f0-42d9-a069-b329c7222108" />
+
